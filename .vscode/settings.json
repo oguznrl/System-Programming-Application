@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "pthread.h": "c",
+        "stdio.h": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "socket.h": "c",
+        "wait.h": "c",
+        "*.tcc": "c",
+        "complex": "c",
+        "fstream": "c",
+        "iosfwd": "c",
+        "istream": "c",
+        "limits": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "in.h": "c",
+        "cstdlib": "c",
+        "condition_variable": "c",
+        "mutex": "c",
+        "shm.h": "c",
+        "stat.h": "c",
+        "syscall.h": "c",
+        "string.h": "c"
+    }
+}
